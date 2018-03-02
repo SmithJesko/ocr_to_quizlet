@@ -10,9 +10,10 @@ I have to study over 100 Spanish terms because I decided to take AP Spanish 3 fo
 2. Use `pip install selenium`
 3. Use `pip install translate`
 4. Use `pip install pytesseract`
-5. Download and install tesseract from https://github.com/tesseract-ocr/tesseract
-6. Clone this repository
-7. Run `main.py`
+5. Use `pip install pillow`
+6. Download and install tesseract from https://github.com/tesseract-ocr/tesseract
+7. Clone this repository
+8. Run `main.py`
 
 ---
 

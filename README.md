@@ -12,8 +12,7 @@ I have to study over 100 Spanish terms because I decided to take AP Spanish 3 fo
 4. Use `pip install pytesseract`
 5. Download and install tesseract from https://github.com/tesseract-ocr/tesseract
 6. Clone this repository
-7. Edit the `config.py` file
-8. Run `main.py`
+7. Run `main.py`
 
 ---
 
